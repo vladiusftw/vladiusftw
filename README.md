@@ -20,9 +20,7 @@
    <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47u9uqzcmgwgipzlrrbujm5slc8to2b7rwrxlugrph&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="400"/>
  </div>
 
- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web & mobile applications.
-
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web & mobile applications.
 
 - :muscle: In my free time, I go and hit some weights
 
