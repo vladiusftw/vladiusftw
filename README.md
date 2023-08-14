@@ -3,13 +3,10 @@
   <div id="badges">
 <!--     <br/> -->
     <a href="https://www.linkedin.com/in/sbeinaty/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn Badge"/>
     </a
-    <a href="mailto:alsbeinaty@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=vladiusftw&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=vladiusftw&style=flat-square&color=blue" height="25" alt=""/>
  </div>
 
  ---
